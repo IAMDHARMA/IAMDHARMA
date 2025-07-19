@@ -1,4 +1,4 @@
-#👋 Hi, I'm Dharmarajan
+👋 Hi, I'm Dharmarajan
 
 🎓 **Aspiring Data Analyst | Python & SQL Developer | AWS & Cloud Enthusiast**
 
