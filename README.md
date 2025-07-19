@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Dharmarajan!
+🎓 IT Enthusiast | 💻 Python & SQL Developer | ☁️ Data Science & Machine Learning Learner
 
-<!--
-**IAMDHARMA/IAMDHARMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Skills
+Python Programming (Pandas, NumPy, Matplotlib)
+SQL (Joins, Aggregations, Subqueries)
+Data Cleaning | Data Analysis | Excel Automation
+Machine Learning Basics (Scikit-Learn, Linear Regression, Classification)
+Git | GitHub | Jupyter Notebook | VS Code
 
-Here are some ideas to get you started:
+🧰 Projects
+📊 CSV Data Analysis Projects | 📈 Data Cleaning with Pandas | 🤖 Basic ML Prediction Models | 🗄️ SQL Database Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach Me
+Email: dharmarajanai7639@gmail.com
+LinkedIn: www.linkedin.com/in/dharmarajan-ai
+GitHub: github.com/IAMDHARMA
+
