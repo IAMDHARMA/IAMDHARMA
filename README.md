@@ -33,7 +33,7 @@ Motivated and detail-oriented professional with a solid foundation in **Data Ana
 
 ## 📫 Let's Connect
 
-* 📧 **Email**: [dharmarajanai7639@gmail.com](mailto:dharmarajanai7639@gmail.com)
+* 📧 **Email**: [ai.dharmarajan@gmail.com](mailto:ai.dharmarajan@gmail.com)
 * 💼 **LinkedIn**: [www.linkedin.com/in/dharmarajan-ai](https://www.linkedin.com/in/dharmarajan-ai)
 * 🐙 **GitHub**: [github.com/IAMDHARMA](https://github.com/IAMDHARMA)
 
